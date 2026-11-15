@@ -1,0 +1,8 @@
+{
+  "name": "FLOWMIND — Autonomous Business Operations",
+  "description": "Multi-agent business operations platform for automated invoice extraction, purchase-order matching, duplicate and discrepancy detection, payment scheduling, vendor email drafting, and financial reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
