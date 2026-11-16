@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![FlowMind Operations Banner](docs/images/flowmind-hero.png)
 
 ### **One Coordinated Layer Between Business Documents and Decisions**
 
@@ -33,9 +32,6 @@ Small teams and growing businesses run finance across too many disconnected tool
 
 > **The Bottleneck:** The business owner or finance operator becomes the manual integration layer — constantly re-keying the exact same numbers across four or five isolated systems.
 
-<div align="center">
-  <img src="docs/images/problem-scattered-documents.png" alt="Scattered Business Documents" width="800" />
-</div>
 
 ---
 
@@ -120,11 +116,7 @@ flowchart TD
 
 ---
 
-## 🛡️ Human-in-the-Loop Governance
 
-<div align="center">
-  <img src="docs/images/human-in-the-loop-stamp.png" alt="Review, Approve, Audit" width="700" />
-</div>
 
 > ### *"The system prepares. The owner decides."*
 
